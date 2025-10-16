@@ -1,1 +1,3 @@
-"# image-colorization" 
+# image-colorization
+
+One Convolutional Neural network-based encoder-decoder model faithfully colorizes black and white images without any human assistance while able to preserve the natural tonality. We gave best efforts to produce more aesthetically pleasing output than many existing solutions based on regression or classification. Moreover, it’s much more time efficient than the traditional method to colorize by human assistance. Without the need to preprocess the data for feature extraction the model can work in conjunction with a VGG16, a domain adaptation model to learn image features, widely in use for computer vision applications. We have explored many cutting-edge concepts regarding color spaces, Convolutional Neural Network architecture, Encoder-Decoder type domain adaptation, Transfer learning, regularization, model evaluation, etc.

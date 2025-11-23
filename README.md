@@ -1,8 +1,6 @@
-# image-colorization
-
 # Deep Learning Image Colorization: Encoder-Decoder Architecture
 
-## Introduction
+## Abstract
 One Convolutional Neural Network-based encoder-decoder model faithfully colorizes black and white images without any human assistance, while preserving the natural tonality. We made our best efforts to produce more aesthetically pleasing output than many existing solutions based on regression or classification. Moreover, it’s much more time-efficient than the traditional method of colorization by human assistance. Without the need to preprocess the data for feature extraction, the model can work in conjunction with a VGG16, a domain adaptation model widely used for computer vision applications, to learn image features. We have explored numerous cutting-edge concepts, including color spaces, Convolutional Neural Network architecture, Encoder-Decoder type domain adaptation, Transfer learning, regularization, and model evaluation, among others.
 
 
